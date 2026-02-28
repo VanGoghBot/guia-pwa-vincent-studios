@@ -1,4 +1,9 @@
 # 🚀 Guia Definitivo: Transforme seu Site em um App (PWA & TWA)
+
+<p align="center">
+  <img src="capa-pwa.jpg" alt="Capa do Guia PWA Vincent AI Studios" width="80%">
+</p>
+
 *Disponibilizado por [Vincent AI Studios](https://vincent-vangogh.web.app/)*
 
 Bem-vindo ao repositório oficial do manual de distribuição PWA do Vincent AI Studios! 🌻
